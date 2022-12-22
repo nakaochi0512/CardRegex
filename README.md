@@ -14,4 +14,5 @@
 8.値に「javascript:custom/card.js」と入力する。<br>
 　アスキーなどエンコードを行いたい場合はパイプで結んで登録する。<br>
   「ascii-enc| javascript:custom/card.js」<br>
-
+9.「ext-device.card-no-regex」を検索する。<br>
+　文字が入力されている場合、空白にする。<br>
